@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://aquasonic1995.github.io/rsschool-cv/
