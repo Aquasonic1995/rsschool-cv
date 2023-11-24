@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85bff428-e0b4-4b9c-9db5-87b5933ddd69" name="Changes" comment="init:add main.css" />
+    <list default="true" id="85bff428-e0b4-4b9c-9db5-87b5933ddd69" name="Changes" comment="fix: DOCTYPE fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +43,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2YcTxxrWdj2Yb1olVPscvuBNDIu" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -101,7 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700825172079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: DOCTYPE UPPERCASE">
+      <option name="closed" value="true" />
+      <created>1700829022502</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700829022502</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix: DOCTYPE fix">
+      <option name="closed" value="true" />
+      <created>1700829116711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700829116711</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +150,8 @@
     <MESSAGE value="docs: README.md changed" />
     <MESSAGE value="init:add index.html" />
     <MESSAGE value="init:add main.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="init:add main.css" />
+    <MESSAGE value="fix: DOCTYPE UPPERCASE" />
+    <MESSAGE value="fix: DOCTYPE fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: DOCTYPE fix" />
   </component>
 </project>
